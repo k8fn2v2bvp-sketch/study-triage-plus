@@ -101,10 +101,8 @@ If Resources is empty:
 
 ---
 
-## Development & Testing
-
-### Core checks
-- Compile/syntax:
-  ```bash
-  python -m compileall .
+## Disclaimer
+This add-on is not affiliated with or endorsed by AnKing, Anki, or third-party resource providers.
+It does not distribute deck content/media; it maps links/media names already present in the user’s own environment.
+Users are responsible for compliance with applicable licenses and terms.
 
